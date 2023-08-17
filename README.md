@@ -1,4 +1,4 @@
-- 👋 👋 Hi there! I'm Charity,
+- 👋 Hi there! Charity here 👋,
 - 🌱 A software engineer in making with a passion for AI and data science.
 - 📫 My journey in the tech industry has just begun, and I'm excited to explore the realms of machine learning, natural language processing, and computer vision.
 - 👀 Currently working on projects that blend my software engineering skills with AI techniques.
